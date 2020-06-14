@@ -1,0 +1,15 @@
+{
+  "name": "request-tracer",
+  "version": "1.0.0",
+  "description": "Trace IIS server request logs to see if there are active users on a site",
+  "main": "server.js",
+  "author": "Ezequiel Streitenberger <streitenberger.ezequiel@gmail.com>",
+  "license": "see license in LICENSE file located at the root",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/estreiten/request-tracer.git"
+  },
+  "dependencies": {
+    "mssql": "^5.1.0"
+  }
+}
